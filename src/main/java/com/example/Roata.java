@@ -9,6 +9,6 @@ public class Roata {
     }
     public double calculeazaArie()
     {
-        return 3.14*3.14*roata
+        return 3.14*3.14*roata;
     }
 }
